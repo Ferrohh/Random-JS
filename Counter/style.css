@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+#count {
+  display: block;
+  font-size: 15vw;
+}
+
+#btns button {
+  padding: 10px 20px;
+  font-size: 1.5em;
+  color: white;
+  background-color: rgb(184, 12, 184);
+  border-radius: 15px;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+#btns button:hover {
+  cursor: pointer;
+  background-color: rgb(233, 17, 233);
+  transition: 0.33s;
+}
+
+#blwZero {
+  margin-top: 5%;
+}/*# sourceMappingURL=style.css.map */
