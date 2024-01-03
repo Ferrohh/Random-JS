@@ -1,0 +1,31 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+#roll {
+  font-size: 3em;
+  padding: 10px 25px;
+  border-radius: 10px;
+  transition: background-color 0.33s;
+}
+#roll:hover {
+  background-color: lightgreen;
+}
+
+#nr {
+  font-size: 3em;
+}
+
+#settings {
+  font-size: 1.5em;
+  margin-top: 5%;
+}
+#settings .in {
+  margin-top: 15px;
+}
+#settings .in input {
+  margin-right: 20px;
+  width: 40px;
+  height: 30px;
+}/*# sourceMappingURL=style.css.map */
